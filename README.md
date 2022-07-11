@@ -8,3 +8,7 @@ Non-contact respiration rate measurement (nRRM), which aims to monitor one’s b
 
  <p align="center">
   <img src="images/Result.gif"/></p>
+
+Dataset
+----------
+We collected two types of radio frequency (RF)-based nRRM datasets under the static/moving settings. For acquiring RF data, we utilized a commercial FMCW radar (IWR1443BOOST, Texas Instruments Inc.) operating in the 77 GHz frequency band with a 1000 pulse repetition frequency. To download the dataset, please visit the following **[GoogleDrive](https://)**.
